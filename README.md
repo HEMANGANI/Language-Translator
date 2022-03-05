@@ -1,9 +1,9 @@
 # Language-Translator
 
 ### Goal:
-Build a language translation layer that can sit on top of a chatbot with minor adjustments. Such a layer should be able to account for custom business-centric keywords and provide a way to update them as required. The layer should be easily accessible via an API. Keep in mind that the API should be able to connect with other services and platforms (WhatsApp, Slack, Teams, etc.). The layer should also identify and omit offensive and inappropriate language. 
+Build a language translation layer that can sit on top of a chatbot with minor adjustments. Such a layer should account for custom business-centric keywords and provide a way to update them as required. The layer should be easily accessible via an API. Keep in mind that the API should connect with other services and platforms (WhatsApp, Slack, Teams, etc.). The layer should also identify and omit offensive and inappropriate language.
 ### Introduction: 
-Today’s day and age, technology has brought the world closer than ever. Information flow is on a larger scale today that facilitates business operations. Around the world, a business might have to interact with many entities to carry out their operations in different capacities. The translation is necessary to spread new information, knowledge, and ideas across the world. It is essential to achieve effective communication between different cultures. In spreading new information, translation is something that can change history.
+Today’s day and age, technology has brought the world closer than ever. Information flow is on a larger scale today that facilitates business operations. Around the world, a business might have to interact with many entities to carry out their operations in different capacities. The translation is necessary to spread new information, knowledge, and ideas worldwide. It is essential to achieve effective communication between different cultures. In spreading new information, translation is something that can change history.
 
 ## Methodology:
 ### PART 1: LANGUAGE TRANSLATION
